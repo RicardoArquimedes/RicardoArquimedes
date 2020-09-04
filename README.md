@@ -26,14 +26,13 @@
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/RicardoArquimedes/github-readme-stats)
 <br />
 <br />
 
 ---
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/richarcqt
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
