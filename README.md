@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
-[<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][python]
+[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 
 <br />
 <br />
@@ -38,3 +39,6 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/richarcqt
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
 [medium]: https://medium.com/@richardcqt28
+[python]: https://www.python.org
+[C]: https://en.cppreference.com/w/
+
