@@ -19,8 +19,22 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="richardcqt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
-[twitter]: https://twitter.com/richarcqt28
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
+[<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][python]
+
+<br />
+<br />
+
+---
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[twitter]: https://twitter.com/richarcqt
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
+[medium]: https://medium.com/@richardcqt28
