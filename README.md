@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ricardo Arquímedes 👋 :rainbow:
 
 <!--
 **RicardoArquimedes/RicardoArquimedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
 [medium]: https://medium.com/@richardcqt28
 [python]: https://www.python.org
-[C]: https://en.cppreference.com/w/
+[C]: https://en.cppreference.com/w/c
 
