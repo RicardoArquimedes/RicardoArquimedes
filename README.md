@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning Python and Go
 - 💼 I’m looking for a job as a Junior Develoer in Tech Industry or Startup
-- 🥅 2020 Goals: Get an immersive development experience
+- 🥅 2020 Goals: Get an immersive development experience and knoledgmentes
 - 👯 I’m looking to collaborate on learning new languages
-- 💬 Ask me about anything I can help you
+- 💬 Ask me anything, maybe I can help you
 - 📫 Contact me: richardcqt28@gmail.com
 - 😼 Catlover
 - 🎵 Love pop music and Films 🎞️
-- ⚡ Love Memes, check my [twitter] :twitter:
+- ⚡ Love Memes, check my [twitter]
 
 ### Connect with me:
 
