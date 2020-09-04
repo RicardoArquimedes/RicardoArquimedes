@@ -10,7 +10,7 @@
 - 📫 Contact me: richardcqt28@gmail.com
 - 😼 Catlover
 - 🎵 Love pop music and Films 🎞️
-- ⚡ Love Memes, check my twitter [twitter]
+- ⚡ Love Memes, check my [twitter] :twitter:
 
 ### Connect with me:
 
