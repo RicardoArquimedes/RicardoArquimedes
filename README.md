@@ -25,8 +25,8 @@
 
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/RicardoArquimedes/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact)](https://github.com/RicardoArquimedes/github-readme-stats)
 <br />
 <br />
 
