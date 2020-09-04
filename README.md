@@ -1,17 +1,16 @@
 ### :rainbow: Hi there, I'm Ricardo Arquímedes 👋 
 
-  Social Communicator 👨‍💻. I'm studyung foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín :seahorse:
+  Social Communicator 👨‍💻. I'm studyung foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Go
 - 💼 I’m looking for a job as a Junior Develoer in Tech Industry or Startup
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🥅 2020 Goals: Get an immersive development experience
+- 👯 I’m looking to collaborate on learning new languages
+- 💬 Ask me about anything I can help you
 - 📫 Contact me: richardcqt28@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😼 Catlover
+- 🎵 Love pop music and Films 🎞️
+- ⚡ Love Memes, check my twitter [twitter]
 
 ### Connect with me:
 
