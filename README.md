@@ -26,13 +26,13 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes)]
 
 <br />
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&count_private=true&show_icons=true&theme=highcontrast)]
 
 [twitter]: https://twitter.com/richardcqt
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
