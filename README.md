@@ -1,4 +1,4 @@
-### :rainbow: Hi there, I'm Ricardo Arquímedes 👋 
+### :rainbow: Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
 
   Social Communicator 👨‍💻. I'm studyung foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
 
