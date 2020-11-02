@@ -2,10 +2,10 @@
 
   Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
 
-- 🌱 I’m currently learning Python and Go
-- 💼 I’m looking for a job as a Junior Developer in Tech Industry or Startup
+- 🌱 Currently learning Python and Go
+- 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
 - 🥅 2020 Goals: Get an immersive development experience and knowledgmentes
-- 👯 I’m looking to collaborate on learning new languages
+- 👯 Looking to collaborate on learning new languages
 - 💬 Ask me anything, maybe I can help you
 - 📫 Contact me: richardcqt28@gmail.com
 - 😼 Catlover
