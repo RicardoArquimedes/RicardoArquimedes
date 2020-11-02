@@ -1,6 +1,6 @@
-### :rainbow: Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
+### Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
 
-  Social Communicator 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
+  Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
 
 - 🌱 I’m currently learning Python and Go
 - 💼 I’m looking for a job as a Junior Developer in Tech Industry or Startup
