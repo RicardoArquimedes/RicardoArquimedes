@@ -26,7 +26,7 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=vue&langs_count=7")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=vue&langs_count=10")
 
 <br />
 
