@@ -16,7 +16,7 @@
 
 [<img align="left" alt="arquimedescq | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
 [<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://iconape.com/wp-content/files/ik/11613/png/medium.png" />][medium]
+[<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://iconape.com/wp-content/files/kv/80919/png/medium-m.png" />][medium]
 
 <br />
 
