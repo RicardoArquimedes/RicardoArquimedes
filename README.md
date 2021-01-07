@@ -34,7 +34,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&count_private=true&show_icons=true&theme=highcontrast)
 
-[twitter]: https://twitter.com/richardcqt
+[twitter]: https://twitter.com/arquimedescq
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
 [medium]: https://medium.com/@richardcqt28
 [python]: https://www.python.org
