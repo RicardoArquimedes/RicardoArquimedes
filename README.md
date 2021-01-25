@@ -1,15 +1,4 @@
-<p align="center">
-  
-   ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
-
-</p>
-
-<p align="center">
-<h1> Hi there, I'm Ricardo Arquímedes 👋 </h1> 
-
-<img align='center' src="https://miro.medium.com/max/750/1*0UUwxZdDkbim-aiNVMa_mg.gif" width="900">
- </p>
-
+### Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
  
  Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡 
  
