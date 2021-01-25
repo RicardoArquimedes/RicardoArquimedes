@@ -1,7 +1,7 @@
 ### Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
 
   Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡
-
+  <img align='right' src="https://miro.medium.com/max/750/1*0UUwxZdDkbim-aiNVMa_mg.gif" width="200">
 - 🌱 Currently learning Python and Go
 - 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
 - 🥅 2020 Goals: Get an immersive development experience and knowledgmentes
@@ -12,6 +12,8 @@
 - 😼 Catlover
 - 🎵 Love pop music and Films 🎞️
 - ⚡ Love Memes, check my [twitter]
+
+
 
 ### Connect with me:
 
