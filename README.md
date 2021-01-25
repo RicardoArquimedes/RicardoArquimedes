@@ -2,7 +2,6 @@
  
  Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡 
  
-  
 - 🌱 Currently learning Python and Go
 - 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
 - 🥅 2020 Goals: Get an immersive development experience and knowledgmentes
@@ -14,7 +13,9 @@
 - 🎵 Love pop music and Films 🎞️
 - ⚡ Love Memes, check my [twitter]
 
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/5g7bgmfb37mlxlwvovjikz5ka)
 
 ### Connect with me:
 
