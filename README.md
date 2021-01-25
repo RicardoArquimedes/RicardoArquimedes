@@ -1,8 +1,18 @@
-<h1> Hi there, I'm Ricardo Arquímedes 👋 </h1> ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
-<p align="center"
+<p align="center">
+  
+  ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
+  ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
+  <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
+  <a href="https://sourcerer.io/RicardoArquimedes><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
+</p>
+
+<p align="center">
+<h1> Hi there, I'm Ricardo Arquímedes 👋 </h1> 
+
 <img align='center' src="https://miro.medium.com/max/750/1*0UUwxZdDkbim-aiNVMa_mg.gif" width="900">
  </p>
- </br>
+
  
  Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡 
  
