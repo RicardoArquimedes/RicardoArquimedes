@@ -1,4 +1,8 @@
-<p align="center">
+
+  <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
+ <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
+ </p>
+ <p align="center">
   
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
@@ -8,10 +12,6 @@
 </p>
 
   <p>
-  <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
- <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
- </p1>
- 
  </br>
  
 - 🌱 Currently learning Python and Go
