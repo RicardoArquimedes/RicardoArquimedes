@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoArquimedes&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </div>
 <div>
-   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight" />
+   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=7" width="50%" />
 <div>
 </br>
     
