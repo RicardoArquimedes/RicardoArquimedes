@@ -14,7 +14,7 @@
   <img width="470" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight" />
 </a>
 <div>
-  </div>
+ 
 
 
 ### Languages and Tools:
