@@ -38,7 +38,7 @@
 </div>
 </br>
 <div>
-   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=5" width="52%" />
+   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=5" width="51%" />
 <div>
 </br>
     
