@@ -29,5 +29,8 @@
 
 <br />
 
+[twitter]: https://twitter.com/arquimedescq
+[linkedin]: https://linkedin.com/in/ricardoarquimedes
+[medium]: https://medium.com/@richardcqt28
 
 
