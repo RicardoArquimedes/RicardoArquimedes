@@ -24,11 +24,13 @@
 [linkedin]: https://linkedin.com/in/ricardoarquimedes
 [medium]: https://medium.com/@richardcqt28
 
+</br>
+
 <div style="display: inline-block;">
         <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&theme=dark&show_icons=true" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+        <img width="350" img align="left" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
 
