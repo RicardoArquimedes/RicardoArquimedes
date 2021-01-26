@@ -22,8 +22,7 @@
         <!-- twitter -->
         <a href="https://twitter.com/arquimedescq"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="50px" alt="Twitter"> </a> &nbsp; &nbsp;
 &nbsp;
-    </p>
-        <!-- Medium-->
+       <!-- Medium-->
         <a href="https://medium.com/richardcqt28"><img src="https://iconape.com/wp-content/files/kv/80919/png/medium-m.png" width="50px" alt="Medium"> </a> &nbsp; &nbsp;
 &nbsp;
     </p>
