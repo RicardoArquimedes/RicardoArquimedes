@@ -35,13 +35,14 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   
-
+<div>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoArquimedes&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </div>
 </br>
 <div>
    <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=8" width="49%" />
-<div>
+</div>
+</div>
 </br>
     
 
