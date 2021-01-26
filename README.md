@@ -26,14 +26,12 @@
 
 </br>
 
-
- <a href="https://github.com/RicardoArquimedes/github-readme-stats">
-  <img aligh="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoArquimedes&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-
-</br>
-
 <a href="https://github.com/RicardoArquimedes/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img width="470" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight" />
 </a>
+<div>
+ <a href="https://github.com/RicardoArquimedes/github-readme-stats">
+  <img aligh="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoArquimedes&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+  </div>
