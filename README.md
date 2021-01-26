@@ -6,11 +6,14 @@
   <a href="https://sourcerer.io/juansedev"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
   <a href="https://sourcerer.io/juansedev"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
 </p>
+
   <p>
   <h1> Hi there, I'm Ricardo Arquímedes 👋 </h1>
   <h1> FullStack Software Developer 👨‍💻 </h1>
  <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
  </p1>
+ 
+ </br>
  
 - 🌱 Currently learning Python and Go
 - 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
