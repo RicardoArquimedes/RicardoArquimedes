@@ -9,11 +9,9 @@
 </p>
 <br>
   <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>  
+   <p img align='right' src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif?raw=true" width="480">
+  </p>
   
-  <h1>
- <img align='right' src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif?raw=true" width="480">
- </h1>
- 
  </br> 
  
 - 🌱 Currently learning Python and Go
