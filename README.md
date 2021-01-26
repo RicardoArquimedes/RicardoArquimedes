@@ -9,7 +9,7 @@
 
   <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
 <div>
-    <img src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif" class="responsive"/>
+    <img src="assets/ReadmeGif.gif" class="responsive"/>
 </div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   </div>
