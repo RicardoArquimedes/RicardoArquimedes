@@ -8,8 +8,9 @@
 </p>
 
   <p>
-  <h1> Hi there, I'm Ricardo Arquímedes 👋 </h1>
-  <h1> FullStack Software Developer 👨‍💻 </h1>
+  <h1> Hi there, I'm Ricardo Arquímedes 👋
+    </br>
+  FullStack Software Developer 👨‍💻 </h1>
  <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
  </p1>
  
