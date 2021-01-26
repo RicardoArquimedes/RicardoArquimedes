@@ -4,14 +4,22 @@
 </div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   </div>
-  
+  <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&theme=dark&show_icons=true" class="responsive" />
+    </div>
+    <br/>
+    <div style="display: inline-block;">
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>
+    </div>
+    
+    </br>
 ### Connect with me:
 
 [<img align="left" alt="arquimedescq | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
 [<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="ricardoarquimedes | LinkedIn" width="22px" src="https://iconape.com/wp-content/files/kv/80919/png/medium-m.png" />][medium]
-
-<br />
 
 ### Languages and Tools:
 
