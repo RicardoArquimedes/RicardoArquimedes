@@ -1,34 +1,10 @@
-  <p align="center">
-  
-  ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
-  ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
-  <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
-  <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
-</p>
-
-  <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
+###  👋 Hi, I'm Ricardo Arquímedes FullStack Software Developer 💻
 <div>
     <img src="assets/ReadmeGif.gif" class="responsive"/>
 </div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   </div>
   
-   
-   
- 
- - 🌱 Currently learning Python and Go
-- 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
-- 🥅 2020 Goals: Get an immersive development experience and knowledgmentes
-- 👯 Looking to collaborate on learning new languages
-- 📝 I regularly write articles on [https://richardcqt28.medium.com/](https://richardcqt28.medium.com/)
-- 💬 Ask me anything, maybe I can help you
-- 📫 Contact me: richardcqt28@gmail.com
-- 😼 Catlover
-- 🎵 Love pop music and Films 🎞️
-- ⚡ Love Memes, check my [twitter]
-
-
 ### Connect with me:
 
 [<img align="left" alt="arquimedescq | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
