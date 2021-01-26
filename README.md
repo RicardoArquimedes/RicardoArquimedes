@@ -8,7 +8,7 @@
   <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
 </p>
   <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
- <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
+ <img align='right' src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif?raw=true" width="480">
  </p>
  
   <p>
