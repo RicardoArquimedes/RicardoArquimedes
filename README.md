@@ -2,10 +2,7 @@
 <div>
     <img src="assets/ReadmeGif.gif" width="1200" class="responsive"/>
 </div>
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-  </div>
-    
-   
+ 
 
 
 ### Languages and Tools:
@@ -25,12 +22,12 @@
 [medium]: https://medium.com/@richardcqt28
 
 </br>
-
-<div style="display: inline-block;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
         <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&theme=dark&show_icons=true" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="left" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
-
+</div>
