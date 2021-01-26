@@ -1,4 +1,5 @@
 ### Hi there, I'm Ricardo Arquímedes 👋  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
+</br>
   <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
  Software Developer 👨‍💻. I'm studying foundations in full stack software development at Holberton School Colombia, Cohort 12 - Medellín 💡 
  
@@ -15,9 +16,6 @@
 - 🎵 Love pop music and Films 🎞️
 - ⚡ Love Memes, check my [twitter]
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/5g7bgmfb37mlxlwvovjikz5ka)
 
 ### Connect with me:
 
