@@ -33,12 +33,12 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&hide_border=true&count_private=true">
+
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoArquimedes&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
 </div>
 <div>
-  <a href="https://github.com/RicardoArquimedes/github-readme-stats">
+ 
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&theme=material-palenight">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight" />
 </a>
