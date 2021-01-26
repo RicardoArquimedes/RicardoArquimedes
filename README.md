@@ -1,7 +1,14 @@
-###   ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
-
+<p align="center">
+  
+  ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+  ![ViewCount](https://views.whatilearened.today/views/github/RicardoArquimedes/RicardoArquimedes.svg?cache=remove)
+  ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
+  <a href="https://sourcerer.io/juansedev"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
+  <a href="https://sourcerer.io/juansedev"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
+</p>
   <p>
-  <h1> Hi there, I'm Ricardo Arquímedes 👋 FullStack Software Developer 👨‍💻 </h1>
+  <h1> Hi there, I'm Ricardo Arquímedes 👋 </h1>
+  <h1> FullStack Software Developer 👨‍💻 </h1>
  <img align='right' src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy-preview.gif" width="480">
  </p1>
  
