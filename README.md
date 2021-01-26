@@ -38,10 +38,8 @@
 </div>
 <div>
  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArquimedes&theme=radical&layout=compact&theme=material-palenight">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight" />
-</a>
 <div>
 </br>
     
