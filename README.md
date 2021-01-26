@@ -1,4 +1,3 @@
-
   <p align="center">
   
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
@@ -7,14 +6,13 @@
   <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
   <a href="https://sourcerer.io/RicardoArquimedes"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
 </p>
-<br>
+
   <h1> 👋 Hi, I'm Ricardo Arquímedes 💻 FullStack Software Developer </h1>
   <div>
-   <img align='right' src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif?raw=true" width="480">
+   <img align='right' src="https://github.com/RicardoArquimedes/RicardoArquimedes/blob/master/work%20from%20home%20instagram.gif?raw=true" class="responsive">
    </div>
- </br> 
  
-- 🌱 Currently learning Python and Go
+ - 🌱 Currently learning Python and Go
 - 💼 Looking for a job as a Junior Developer in Tech Industry or Startup
 - 🥅 2020 Goals: Get an immersive development experience and knowledgmentes
 - 👯 Looking to collaborate on learning new languages
