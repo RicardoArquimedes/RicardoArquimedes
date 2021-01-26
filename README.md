@@ -25,6 +25,9 @@
 [medium]: https://medium.com/@richardcqt28
 
 ![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=RicardoArquimedes&show_icons=true&theme=radical)
+<div>
  <img width="450" img align="right" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovbarr&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    <div>
+ 
  
 
