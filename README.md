@@ -1,7 +1,7 @@
 ###  👋 Hi, I'm Ricardo Arquímedes FullStack Software Developer 💻
 <div>
     <a href="https://twitter.com/Arquimedescq" target="_blank"> 
-    <img src="assets/Readme.gif" width="1200" class="responsive"/>
+    <img src="assets/Readme.gif" width="900" class="responsive"/>
     </a>
 </div>
 </br>
