@@ -40,7 +40,7 @@
 </div>
 </br>
 <div>
-   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=8" width="49%" />
+   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoArquimedes&layout=compact&theme=material-palenight&langs_count=10" width="49%" />
 </div>
 </div>
 </br>
